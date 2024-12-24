@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B483AB-B22F-482B-9582-0691162555AE}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\taisi\\downloads\\telegram desktop\\flowerapi2\\flowersapi\\businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B483AB-B22F-482B-9582-0691162555AE}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A6F737-77E4-425E-BB44-701EBA8D2605}|flowersAPI\\flowersAPI.csproj|c:\\users\\taisi\\downloads\\telegram desktop\\flowerapi2\\flowersapi\\flowersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A6F737-77E4-425E-BB44-701EBA8D2605}|flowersAPI\\flowersAPI.csproj|solutionrelative:flowersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD73E49-7A26-485F-9549-3EB22AF2928B}|DataAccess\\DataAccess.csproj|c:\\users\\taisi\\downloads\\telegram desktop\\flowerapi2\\flowersapi\\dataaccess\\models\\flower_servicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD73E49-7A26-485F-9549-3EB22AF2928B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\flower_servicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7383EAD0-D606-40D3-B444-23BB806BE315}|Domain\\Domain.csproj|c:\\users\\taisi\\downloads\\telegram desktop\\flowerapi2\\flowersapi\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7383EAD0-D606-40D3-B444-23BB806BE315}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A6F737-77E4-425E-BB44-701EBA8D2605}|flowersAPI\\flowersAPI.csproj|c:\\users\\taisi\\downloads\\telegram desktop\\flowerapi2\\flowersapi\\flowersapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A6F737-77E4-425E-BB44-701EBA8D2605}|flowersAPI\\flowersAPI.csproj|solutionrelative:flowersapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A6F737-77E4-425E-BB44-701EBA8D2605}|flowersAPI\\flowersAPI.csproj|c:\\users\\taisi\\downloads\\telegram desktop\\flowerapi2\\flowersapi\\flowersapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A6F737-77E4-425E-BB44-701EBA8D2605}|flowersAPI\\flowersAPI.csproj|solutionrelative:flowersapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:09:09.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:06:44.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\flowersAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "flowersAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\flowersAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "flowersAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:05:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\flowersAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "flowersAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\flowersAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "flowersAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:01:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flower_ServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\DataAccess\\Models\\Flower_ServiceContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Flower_ServiceContext.cs",
+              "ToolTip": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\DataAccess\\Models\\Flower_ServiceContext.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Flower_ServiceContext.cs",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:00:49.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\flowersAPI\\Program.cs",
+              "RelativeDocumentMoniker": "flowersAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\taisi\\Downloads\\Telegram Desktop\\flowerapi2\\flowersAPI\\flowersAPI\\Program.cs",
+              "RelativeToolTip": "flowersAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:00:11.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

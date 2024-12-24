@@ -1,0 +1,14 @@
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\samir\OneDrive\Документы\flowersAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
